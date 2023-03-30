@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ericmasila
-- 👀 I’m interested in machine learning, AI, cybersecurity, web and apps development and pentesting.
-- 🌱 I’m currently learning Ethical hacking and Cybersecurity
-- 💞️ I’m looking to collaborate on machine learning models, web development(react native) and network vulnerability assessment
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning fullstack engineering
+- 💞️ I’m looking to collaborate on fullstack projects and open source projects
 - 📫 How to reach me via email ericmasila254@gmail.com
 
 <!---
