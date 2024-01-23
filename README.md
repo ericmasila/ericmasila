@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ericmasila
-- 👀 I’m interested in software development and web security
+- 👀 I’m interested in software development and IoT
 - 🌱 I’m currently learning Software Engineering @ALX
 - 💞️ I’m looking to collaborate on software development projects and hackathons.
 - 📫 How to reach me via [email] (ericmasila254@gmail.com)
